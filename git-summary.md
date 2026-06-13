@@ -1,1 +1,1 @@
-"add prepares the file for saving"  
+"Push puts the file on github" 
